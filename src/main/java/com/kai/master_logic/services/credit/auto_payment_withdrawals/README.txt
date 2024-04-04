@@ -1,0 +1,1 @@
+This class will be used within the system for auto - writing off loans from users
